@@ -86,7 +86,7 @@ function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
-  if(str1.legth===str2.legth){
+  if(str1.length===str2.length){
     return true;
   }
     return false;
